@@ -1,0 +1,8 @@
+{
+  "active": true,
+  "tools": {
+    "MES工具模板": true
+  },
+  "updated": "2026-10-30",
+  "note": "active=false 时所有工具停用并自毁；tools 可单独控制某个工具。改完提交即生效。"
+}
